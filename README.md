@@ -7,7 +7,7 @@ Wrapper for queries on Mapa da Informação system, based on Neo4J
     "port": 3000,
     "bodyLimit": "100kb",
     "corsHeaders": ["Link"],
-    "authentication":"Basic bmVvNGo6TWFwYUluZm9ybWFjYW9HaXQyMDE2",
+    "authentication":"<<hash>>",
     "mapaInformacaoBaseUrl":"<<mapainformacaourl>>",
     "wikiBaseUrl":"<<wiki url>>",
     "statements":{
